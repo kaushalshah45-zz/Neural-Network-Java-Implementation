@@ -20,6 +20,4 @@ Note: Set path to where you have stored the dataset file and where you want the 
 133
 135
 
-Also use the dataset file provided in this zip only.
 
-Thank you.
